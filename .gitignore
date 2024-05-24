@@ -1,0 +1,15 @@
+# Ignore directories
+venv/
+__pycache__/
+.vscode/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+*.log
+
+# Ignore local environments
+.env
